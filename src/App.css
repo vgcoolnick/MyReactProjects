@@ -1,0 +1,21 @@
+.app {
+  background-color: blue;
+  color: whitesmoke;
+  margin-top: 0px;
+  width: 100%;
+  height: 100%;
+}
+.header {
+  width: 100%;
+  height: 100%;
+  margin-top: 0%;
+}
+.loginform {
+  background-color: aqua;
+  width: 100%;
+  height: 100%;
+}
+.footer {
+  background-color: cadetblue;
+  color: blue
+}
